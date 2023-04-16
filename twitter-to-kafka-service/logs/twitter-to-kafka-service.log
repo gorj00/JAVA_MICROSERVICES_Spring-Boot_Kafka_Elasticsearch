@@ -1,0 +1,11 @@
+2023-04-16 19:08:48 [main] INFO  d.g.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.5 on DESKTOP-G5IPVE5 with PID 22180 (D:\WORKSPACE\JAVA_MICROSERVICES_Spring-Boot_Kafka_Elasticsearch\twitter-to-kafka-service\target\classes started by Honza in D:\WORKSPACE\JAVA_MICROSERVICES_Spring-Boot_Kafka_Elasticsearch)
+2023-04-16 19:08:48 [main] INFO  d.g.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-04-16 19:08:48 [main] INFO  d.g.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.809 seconds (JVM running for 1.407)
+2023-04-16 19:08:48 [main] INFO  d.g.TwitterToKafkaServiceApplication - App starts...
+2023-04-16 19:08:48 [main] INFO  d.g.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elastisearch]
+2023-04-16 19:11:35 [main] INFO  d.g.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.5 on DESKTOP-G5IPVE5 with PID 18300 (D:\WORKSPACE\JAVA_MICROSERVICES_Spring-Boot_Kafka_Elasticsearch\twitter-to-kafka-service\target\classes started by Honza in D:\WORKSPACE\JAVA_MICROSERVICES_Spring-Boot_Kafka_Elasticsearch)
+2023-04-16 19:11:35 [main] INFO  d.g.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-04-16 19:11:35 [main] INFO  d.g.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.608 seconds (JVM running for 1.079)
+2023-04-16 19:11:35 [main] INFO  d.g.TwitterToKafkaServiceApplication - App starts...
+2023-04-16 19:11:35 [main] INFO  d.g.TwitterToKafkaServiceApplication - Hello Spring Microservices world!
+2023-04-16 19:11:35 [main] INFO  d.g.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elastisearch]
